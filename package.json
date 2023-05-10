@@ -1,0 +1,21 @@
+{
+  "name": "@yahvz01/webutil",
+  "version": "0.0.1",
+  "description": "web util ajax fetch",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "web",
+    "util",
+    "ajax",
+    "fetch"
+  ],
+  "author": "yahvz01@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@yahvz01/monad": "^0.1.8",
+    "@yahvz01/utilcollection": "^0.0.1"
+  }
+}
